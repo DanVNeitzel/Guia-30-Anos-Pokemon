@@ -2,6 +2,8 @@
 
 Aplicação web em português do Brasil para consultar cartas da coleção Pokémon 30C, acompanhar cartas adquiridas e faltantes e visualizar referências de preços.
 
+![Exemplo da interface do Guia 30 Anos Pokémon](exemplo.png)
+
 ## Funcionalidades
 
 - Galeria com 191 cartas: 158 numeradas, 30 da Classic Collection e 3 RGB.
