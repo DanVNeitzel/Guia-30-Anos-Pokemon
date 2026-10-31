@@ -115,4 +115,4 @@ As imagens das cartas são carregadas do CDN do Limitless TCG. Os preços depend
 
 ## Autoria
 
-Desenvolvido por [Daniel Neitzel](https://danielneitzel.dev).
+Desenvolvido por [Daniel Neitzel](https://danielneitzel.com.br).
