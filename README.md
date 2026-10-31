@@ -2,6 +2,8 @@
 
 Aplicação web em português do Brasil para consultar cartas da coleção Pokémon 30C, acompanhar cartas adquiridas e faltantes e visualizar referências de preços.
 
+Versão publicada: [AQUI](https://danielneitzel.com.br/poke30/)
+
 ![Exemplo da interface do Guia 30 Anos Pokémon](exemplo.png)
 
 ## Funcionalidades
